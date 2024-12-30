@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\RoutingDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB0153-1295-4202-961C-61CBE01119F3}|RoutingDemoApp.csproj|c:\\users\\rajas\\onedrive - nesfield international college\\dotnet_6\\netcoreappl\\routingdemoapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB0153-1295-4202-961C-61CBE01119F3}|RoutingDemoApp.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB0153-1295-4202-961C-61CBE01119F3}|RoutingDemoApp.csproj|c:\\users\\rajas\\onedrive - nesfield international college\\dotnet_6\\netcoreappl\\routingdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB0153-1295-4202-961C-61CBE01119F3}|RoutingDemoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB0153-1295-4202-961C-61CBE01119F3}|RoutingDemoApp.csproj|c:\\users\\rajas\\onedrive - nesfield international college\\dotnet_6\\netcoreappl\\routingdemoapp\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB0153-1295-4202-961C-61CBE01119F3}|RoutingDemoApp.csproj|solutionrelative:views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB0153-1295-4202-961C-61CBE01119F3}|RoutingDemoApp.csproj|c:\\users\\rajas\\onedrive - nesfield international college\\dotnet_6\\netcoreappl\\routingdemoapp\\views\\student\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB0153-1295-4202-961C-61CBE01119F3}|RoutingDemoApp.csproj|solutionrelative:views\\student\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB0153-1295-4202-961C-61CBE01119F3}|RoutingDemoApp.csproj|c:\\users\\rajas\\onedrive - nesfield international college\\dotnet_6\\netcoreappl\\routingdemoapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB0153-1295-4202-961C-61CBE01119F3}|RoutingDemoApp.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\RoutingDemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\RoutingDemoApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:39:07.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\RoutingDemoApp\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\RoutingDemoApp\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T14:38:26.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\RoutingDemoApp\\Views\\Student\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\About.cshtml",
+              "ToolTip": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\RoutingDemoApp\\Views\\Student\\About.cshtml",
+              "RelativeToolTip": "Views\\Student\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T14:37:43.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\RoutingDemoApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\RoutingDemoApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T14:36:35.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\RoutingDemoApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\RoutingDemoApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:34:40.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

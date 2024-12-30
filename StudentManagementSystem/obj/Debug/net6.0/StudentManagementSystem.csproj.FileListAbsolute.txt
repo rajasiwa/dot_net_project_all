@@ -1,0 +1,14 @@
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.exe
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.deps.json
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.runtimeconfig.json
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.dll
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.pdb
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.dll
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\obj\Debug\net6.0\refint\StudentManagementSystem.dll
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.pdb
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\rajas\OneDrive - Nesfield International College\dotnet_6\netcoreappl\StudentManagementSystem\obj\Debug\net6.0\ref\StudentManagementSystem.dll

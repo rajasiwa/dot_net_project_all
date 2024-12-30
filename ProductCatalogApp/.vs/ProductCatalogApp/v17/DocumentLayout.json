@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\ProductCatalogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748B9DE1-5581-4339-B99F-1AF47661F377}|ProductCatalogApp.csproj|c:\\users\\rajas\\onedrive - nesfield international college\\dotnet_6\\netcoreappl\\productcatalogapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{748B9DE1-5581-4339-B99F-1AF47661F377}|ProductCatalogApp.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B9DE1-5581-4339-B99F-1AF47661F377}|ProductCatalogApp.csproj|c:\\users\\rajas\\onedrive - nesfield international college\\dotnet_6\\netcoreappl\\productcatalogapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{748B9DE1-5581-4339-B99F-1AF47661F377}|ProductCatalogApp.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B9DE1-5581-4339-B99F-1AF47661F377}|ProductCatalogApp.csproj|c:\\users\\rajas\\onedrive - nesfield international college\\dotnet_6\\netcoreappl\\productcatalogapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B9DE1-5581-4339-B99F-1AF47661F377}|ProductCatalogApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B9DE1-5581-4339-B99F-1AF47661F377}|ProductCatalogApp.csproj|c:\\users\\rajas\\onedrive - nesfield international college\\dotnet_6\\netcoreappl\\productcatalogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B9DE1-5581-4339-B99F-1AF47661F377}|ProductCatalogApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\ProductCatalogApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\ProductCatalogApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:35:21.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\ProductCatalogApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\ProductCatalogApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T16:34:51.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\ProductCatalogApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\ProductCatalogApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T16:34:03.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\ProductCatalogApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\rajas\\OneDrive - Nesfield International College\\dotnet_6\\netcoreappl\\ProductCatalogApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:32:15.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

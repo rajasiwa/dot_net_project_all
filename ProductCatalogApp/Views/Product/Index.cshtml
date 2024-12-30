@@ -1,0 +1,12 @@
+﻿@model List<string>
+<!-- Model is a list of strings representing products -->
+
+<h1>Product List</h1>
+
+<!-- Display each product in the list -->
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>@product</li> <!-- Render each product as a list item -->
+    }
+</ul>

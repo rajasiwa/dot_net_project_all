@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CN7QFELrOkoxLD2hhW/RAUR63BscYcHUGTXA5o/B8FE=",
+  "Source": "RequestLoggerApp",
+  "BasePath": "_content/RequestLoggerApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
